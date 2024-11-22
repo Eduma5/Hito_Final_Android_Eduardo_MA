@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TapSoul_Edu</string>
+
+        <!-- Other string resources -->
+    <string-array name="filters_array">
+        <item>All</item>
+        <item>By Name</item>
+        <item>By Score</item>
+        </string-array>
+</resources>
